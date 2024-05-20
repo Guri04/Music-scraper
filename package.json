@@ -1,0 +1,18 @@
+{
+    "name": "music-scraper",
+    "version": "1.0.0",
+    "description": "A music scraper for Gaana and Wynk.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "puppeteer": "^13.0.0",
+      "puppeteer-extra": "^3.1.18",
+      "puppeteer-extra-plugin-stealth": "^2.7.10"
+    },
+    "author": "Your Name",
+    "license": "ISC"
+  }
+  
